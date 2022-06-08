@@ -1,4 +1,3 @@
-# PYTHON-STACK-QUESTION
 def push(a,data):
     a.append(data)
     print("ELEMNT PUSHED SUCCESSFULLY ")
